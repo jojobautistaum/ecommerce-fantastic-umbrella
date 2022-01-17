@@ -22,6 +22,8 @@ Product.belongsToMany(Tag, {
 // Tags belongToMany Products (through ProductTag)
 Tag.belongsToMany(Product, {
   through: ProductTag,
+  // onDelete: 'CASCADE',
+  // onUpdate: 'CASCADE'
 });
 
 module.exports = {
