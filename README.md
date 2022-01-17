@@ -38,15 +38,23 @@ Run the following to start the app:
 > > **`$ npm start`** <br />
 > > OR <br /> **`$ node server.js`**
 
-## Snapshots
+## Snapshots of Initial Data
 
-### Menu
+### Products
 
-![menu](https://user-images.githubusercontent.com/90885263/148718433-30a5d57c-5b24-4b63-92b8-2624fcd66170.jpg) <br/>
+![all-products](https://user-images.githubusercontent.com/90885263/149716990-9fbf3c9c-8413-4d9f-9d3a-7c32c9bf86a0.jpg)
+
+### Categories
+
+![all-categories](https://user-images.githubusercontent.com/90885263/149716924-4a6c5db6-4719-4b7d-99ae-5764b837d62e.jpg)
+
+### Tags
+
+![all-tags](https://user-images.githubusercontent.com/90885263/149717045-b24ea172-2905-47fa-93ac-4b7ce30d36c3.jpg)
 
 ### Watch the video on how to use this App:
 
-![How to Use this App](https://user-images.githubusercontent.com/90885263/148724720-bf472b99-377a-4403-8600-9fa2d86c5b71.mp4)
+![How to Use this App](https://user-images.githubusercontent.com/90885263/149717260-e7317674-1708-4ad3-9385-0d32dab41feb.mp4)
 
 ## Tech/Framework <a id="tech"></a>
 
